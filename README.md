@@ -832,7 +832,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [16]: http://pngquant.org/
 [17]: https://directory.fsf.org/wiki?title=License:FreeBSD
 [18]: https://github.com/Kilian/Trimage
-[19]: http://overlap2d.com/
+[19]: https://libgdx.com/wiki/tools/overlap2d
 [20]: https://directory.fsf.org/wiki/License:Apache2.0
 [21]: http://www.mapeditor.org/
 [22]: http://www.gimp.org/
@@ -894,7 +894,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [78]: http://endgate.net/
 [79]: http://haxeflixel.com/
 [80]: http://kivy.org/#home
-[81]: http://mypaint.intilinux.com/
+[81]: https://mypaint.app/about/
 [82]: https://github.com/egonSchiele/actionkid
 [83]: http://helm-engine.org/
 [84]: https://github.com/LambdaHack/LambdaHack
